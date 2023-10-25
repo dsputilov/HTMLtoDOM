@@ -1,0 +1,22 @@
+{
+	"name": "html-to-vdom",
+	"version": "1.0.1",
+	"publishConfig": {
+		"access": "public"
+	},
+	"description": "Compile html to virtual dom tree",
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/dsputilov/HTMLtoVDOM"
+	},
+	"author": "Xman",
+	"homepage": "https://github.com/dsputilov/HTMLtoVDOM/blob/main/README.md",
+	"module": "dist/index.es.js",
+	"engines": {
+		"node": ">= 8.0.0"
+	},
+	"type": "module",
+	"devDependencies": {},
+	"dependencies": {
+	}
+}
