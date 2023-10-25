@@ -1,5 +1,5 @@
 {
-	"name": "html-to-vdom",
+	"name": "html-to-dom",
 	"version": "1.0.1",
 	"publishConfig": {
 		"access": "public"
@@ -7,11 +7,12 @@
 	"description": "Compile html to virtual dom tree",
 	"license": "MIT",
 	"repository": {
-		"url": "https://github.com/dsputilov/HTMLtoVDOM"
+		"url": "https://github.com/dsputilov/HTMLtoDOM"
 	},
 	"author": "Xman",
-	"homepage": "https://github.com/dsputilov/HTMLtoVDOM/blob/main/README.md",
+	"homepage": "https://github.com/dsputilov/HTMLtoDOM/blob/main/README.md",
 	"module": "dist/index.es.js",
+	"main": "./src/index.js",
 	"engines": {
 		"node": ">= 8.0.0"
 	},
